@@ -2,5 +2,5 @@
 
 ### Przykład aplikacji, w której przedstawiam, w jaki sposób globalnie przechwytywać wyjątki w aplikacji reaktywnej Spring Boot Webflux
 
-### [YouTube](https://www.youtube.com/watch?v=ev0Megh9p40&list=PLCXqHvi_kahzG6YsoZrYQ6N4RLLkGJu7N&index=25)
+### [YouTube](https://www.youtube.com/watch?v=48dLP_ciP0s&list=PLCXqHvi_kahzUsEZ4O6wNaFLTpRc8YBRj&index=5)
 ### [KM Programs](https://km-programs.pl/)
